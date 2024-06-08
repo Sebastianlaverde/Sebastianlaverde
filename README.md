@@ -34,22 +34,6 @@
 <!--Intro end-->
 
 
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -72,7 +56,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,postgres,c++,github,html,java,js,nginx,mysql,postman,py,arduino,vscode=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,postgres,C++,github,html,java,js,nginx,mysql,postman,py,arduino,vscode=14" />
   </a>
 </p>
 
