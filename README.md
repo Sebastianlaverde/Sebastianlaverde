@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy Sebastian</h1></summary>
+    <summary><h1 style="display: inline-block">Hola👋 soy Sebastian</h1></summary>
   </ul>
 </div>
 
@@ -25,11 +25,11 @@
 
 
 <!--Intro start-->
-- 🔭 He trabajado con **PYTHON, JAVA, PHP, C++**
+- 🔭 He trabajado con **PYTHON, JAVA, PHP, C++, MySql, PostgreSQL.**
 
 - 🌱 Estoy aprendiendo **Frameworks de php y javascript**.
 
-- 💬 Realizo asesorias **Java, python, c++**
+- 💬 Realizo asesorias **Java, python, C++**
 
 <!--Intro end-->
 
