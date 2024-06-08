@@ -29,7 +29,7 @@
 
 - 🔭 He trabajado con **PYTHON, JAVA, PHP, C++, MySql, PostgreSQL.**
 
-- 🌱 Estoy aprendiendo **Frameworks de php y javascript**.
+- 🌱 Aprendiendo actualmente **Angular, Symfony**.
 
 - 💬 Realizo asesorias **Java, python, C++.**
 
