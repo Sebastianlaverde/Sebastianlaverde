@@ -25,6 +25,8 @@
 
 
 <!--Intro start-->
+- 📝 Tecnologo en sistemas e Ingeniero en progreso
+
 - 🔭 He trabajado con **PYTHON, JAVA, PHP, C++, MySql, PostgreSQL.**
 
 - 🌱 Estoy aprendiendo **Frameworks de php y javascript**.
